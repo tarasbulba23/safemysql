@@ -1,4 +1,5 @@
 <?php
+namespace Colshrapnel\Safemysql;
 /**
  * @author col.shrapnel@gmail.com
  * @link http://phpfaq.ru/safemysql
