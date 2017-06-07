@@ -23,6 +23,8 @@
         "php": ">=5.0.0"
     },
     "autoload": {
-        "files": ["safemysql.class.php"]
+        "psr-4": {
+            "Colshrapnel\Safemysql\\": "src/"
+        }
     }
 }
