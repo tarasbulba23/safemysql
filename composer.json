@@ -24,7 +24,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Colshrapnel\\Safemysql\\": "src/"
+            "Colshrapnel\\Safemysql\\": ""
         }
     }
 }
